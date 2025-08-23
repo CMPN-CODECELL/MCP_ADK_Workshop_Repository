@@ -2,3 +2,4 @@ config
 node_modules
 .env
 mcp_from_scratch_final
+.gitignore
