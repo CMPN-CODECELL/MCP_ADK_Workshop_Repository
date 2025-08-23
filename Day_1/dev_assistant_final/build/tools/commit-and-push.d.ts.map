@@ -1,0 +1,1 @@
+{"version":3,"file":"commit-and-push.d.ts","sourceRoot":"","sources":["../../src/tools/commit-and-push.ts"],"names":[],"mappings":"AAEA,OAAO,KAAK,EAAE,kBAAkB,EAAE,MAAM,aAAa,CAAC;AAItD,UAAU,iBAAiB;IACzB,aAAa,CAAC,EAAE,MAAM,CAAC;IACvB,MAAM,CAAC,EAAE,MAAM,CAAC;CACjB;AA+BD,wBAAsB,iBAAiB,CAAC,MAAM,EAAE,kBAAkB,EAAE,IAAI,EAAE,iBAAiB;;;;;GAqD1F"}
