@@ -1,4 +1,5 @@
-config
 node_modules
 .env
 .gitignore
+mcp_from_scratch_final
+mcp_from_scratch

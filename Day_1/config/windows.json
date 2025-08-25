@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "dev-assistant": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\hanna\\OneDrive\\Desktop\\codecell-workshop\\Day_1\\dev_assistant_final\\build\\index.js",
+        "C:\\Users\\hanna\\OneDrive\\Desktop\\test_dir"
+      ]
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\hanna\\OneDrive\\Desktop\\test_dir"
+      ]
+    } 
+  }
+}
